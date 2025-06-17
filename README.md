@@ -6,11 +6,9 @@ This self-led project was done as a conclusion to the Google Data Analytics Cert
 --- 
 
 # Project Description
-### Guiding Question
-How can tech companies identify and address key workplace barriers to mental health support?
+**Guiding Question**: How can tech companies identify and address key workplace barriers to mental health support?
 
-### Business Task
-Analyze survey data to uncover patterns between company-provided mental health resources (like benefits, leave, and education) and employees' likelihood to seek treatment or disclose mental health concerns
+**Business Task**: Analyze survey data to uncover patterns between company-provided mental health resources (like benefits, leave, and education) and employees' likelihood to seek treatment or disclose mental health concerns
 
 ---
 
@@ -38,3 +36,8 @@ This dataset is from a 2014 survey that measures attitudes towards mental health
 # Tools Used
 - Excel - Data preparation & analysis
 - Tableau (Desktop) - Visualization & analysis
+
+---
+
+### Repo Contents
+- 
