@@ -32,4 +32,6 @@ This dataset is from a 2014 survey that measures attitudes towards mental health
 - Tableau (Desktop) - Visualization & analysis
 
 ### Repo Contents
-- 
+- [Data](https://github.com/jamesfisher19/Mental-Health-in-Tech/tree/main/Data)
+- [Analysis](https://github.com/jamesfisher19/Mental-Health-in-Tech/tree/main/Analysis)
+- [Cleaning Documentation](https://github.com/jamesfisher19/Mental-Health-in-Tech/tree/main/Documentation)
