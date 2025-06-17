@@ -34,4 +34,5 @@ This dataset is from a 2014 survey that measures attitudes towards mental health
 ### Repo Contents
 - [Data](https://github.com/jamesfisher19/Mental-Health-in-Tech/tree/main/Data)
 - [Analysis](https://github.com/jamesfisher19/Mental-Health-in-Tech/tree/main/Analysis)
+  - [Analysis Slides](https://docs.google.com/presentation/d/1-fEdrodm8qNmyFOuax6YQ01W6z7Tu2LjkXcwbtZr6dI/edit?usp=sharing)
 - [Cleaning Documentation](https://github.com/jamesfisher19/Mental-Health-in-Tech/tree/main/Documentation)
