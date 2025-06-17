@@ -3,14 +3,10 @@
 
 This self-led project was done as a conclusion to the Google Data Analytics Certification course, where I completed a case study capstone project, demonstrating my understanding of the data analytics process.
 
---- 
-
 # Project Description
 **Guiding Question**: How can tech companies identify and address key workplace barriers to mental health support?
 
 **Business Task**: Analyze survey data to uncover patterns between company-provided mental health resources (like benefits, leave, and education) and employees' likelihood to seek treatment or disclose mental health concerns
-
----
 
 # Data Source
 [Mental Health in Tech Survey (2014)](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey/data)
@@ -21,8 +17,7 @@ This dataset is from a 2014 survey that measures attitudes towards mental health
 - Workplace info (remote work, no_employees, tech_company)
 - Perception of company support (benefits, wellness_program, anonymity, etc.)
 - Outcomes (treatment, work_interfere, etc.)
-
---- 
+ 
 
 # Analysis Questions
 - Are employees with benefits more likely to seek treatment?
@@ -30,14 +25,11 @@ This dataset is from a 2014 survey that measures attitudes towards mental health
 - Does awareness of care options predict willingness to talk to supervisors?
 - Do remote workers perceive more or less stigma?
 - How do the attitudes towards mental health vary by geographic location?
-
---- 
+ 
 
 # Tools Used
 - Excel - Data preparation & analysis
 - Tableau (Desktop) - Visualization & analysis
-
----
 
 ### Repo Contents
 - 
